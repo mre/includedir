@@ -12,9 +12,9 @@ documentation = "https://docs.rs/includedir_codegen"
 readme = "../README.md"
 
 [dependencies]
-walkdir = "2.3.1"
-phf_codegen = "0.8.0"
-flate2 = "1.0.14"
+walkdir = "2.3.2"
+phf_codegen = "0.10.0"
+flate2 = "1.0.21"
 
 [badges]
 travis-ci = { repository = "tilpner/includedir", branch = "master" }

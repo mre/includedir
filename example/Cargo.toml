@@ -7,7 +7,7 @@ include = ["data", "data/*", "data/**"]
 publish = false
 
 [dependencies]
-phf = "0.8.0"
+phf = "0.10.0"
 includedir = { path = "../lib" }
 
 [build-dependencies]
